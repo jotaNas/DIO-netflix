@@ -1,3 +1,3 @@
 # DIO-netflix
 
-Projeto que simula a página do Netflix com um tema para filmes docukmentários.
+Projeto que simula a página do Netflix com um tema para filmes documentários.
