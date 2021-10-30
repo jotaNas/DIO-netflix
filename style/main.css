@@ -44,7 +44,7 @@ header nav a:hover {
 .filme-principal {
   font-size: 16px;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100%),
-    url("/img/capa-f-for-fake.jpg");
+    url("https://kanopy.com/cdn-cgi/image/fit=cover,height=900,width=1600/https://static-assets.kanopy.com/video-images/f3d58684-be6d-434c-b206-53468b597311.jpg");
 
   height: 550px;
   background-size: cover;
